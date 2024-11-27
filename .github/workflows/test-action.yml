@@ -4,7 +4,7 @@ on:
 jobs:
   check_v_in_example:
     runs-on: ubuntu-latest
-    name: Test version in example
+    name: Run basic action
     steps:
     - name: Run basic test
       uses: JJ/perl-advent-2024-test-action-1@main

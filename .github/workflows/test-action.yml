@@ -1,4 +1,4 @@
-name: Run basic action
+name: Test action
 on:
   push:
 jobs:
